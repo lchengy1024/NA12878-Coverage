@@ -10,7 +10,7 @@
 wget -c ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR323/ERR3239334/NA12878.final.cram
 
 # Step 2: Reference genome
-REF_FA="/reference/GRCh38.d1.vd1.fa"
+REF_FA="reference/GRCh38.d1.vd1.fa"
 
 # Step 3: File paths
 CRAM_FILE="NA12878.final.cram"
